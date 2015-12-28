@@ -1,14 +1,10 @@
 package trial;
-import org.apache.log4j.BasicConfigurator;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-
-
-import org.apache.log4j.Logger;
-
 import java.io.*;
 import java.sql.SQLException;
-import java.util.*;
+
 
 //log4j.properties C: log.out is the output
 public class hello {
